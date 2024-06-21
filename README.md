@@ -5,7 +5,7 @@
 
 **Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。**
 
-**简单部署即可在国内轻松使用原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..** 
+**简单部署即可在国内轻松使用原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..**
 
 
 ![335075014-0ca073cb-f6b8-47ff-befd-8876399a2b3e](https://github.com/jianjianai/microsoft-copilot-porxy/assets/59829816/7d7b54f0-1298-4094-9764-156eb77ad709)
